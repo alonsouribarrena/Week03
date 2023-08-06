@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: tomato;
+}
+
+.countdown{
+  border: red 3px solid;
+  width: 20rem;
+  height: 20rem;
+  border-radius: 20rem;
+  margin: 50px auto;
+}
+
+.btn{
+  border: 1px red solid;
+}
+
+.buttonDisabled
+ {
+ Cursor:text !important; Text-Decoration: None !important; 
+ } 
+
+.noHover{
+  pointer-events: none;
+}
+
+.settings{
+  border: 1px red solid;
+}
